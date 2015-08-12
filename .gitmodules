@@ -1,0 +1,3 @@
+[submodule "RVIC"]
+	path = RVIC
+	url = https://github.com/UW-Hydro/RVIC.git
